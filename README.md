@@ -17,7 +17,7 @@ To install these programs on your TI 84 Plus calculator, follow these steps:
 
 ## How to make your own programs
 
-go [here] (https://ce-programming.github.io/toolchain/static/getting-started.html) 
+go [here](https://ce-programming.github.io/toolchain/static/getting-started.html) 
 
 ## NOTE
 
