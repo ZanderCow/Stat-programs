@@ -10,7 +10,7 @@ These were all developed in C, known for its efficiency and suitability for math
 
 To install these programs on your TI 84 Plus calculator, follow these steps:
 
-1. Download the program files from the ‘bin’ folder located in the folder of whatever program you want to download
+1. Download the program files from the `bin` folder located in the folder of whatever program you want to download
 2. Connect your TI 84 Plus calculator to your computer.
 3. Use appropriate software (like TI Connect) to transfer the files to your calculator.
 4. Follow the on-device instructions to complete the installation.
